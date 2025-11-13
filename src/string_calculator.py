@@ -1,8 +1,5 @@
 import re
 
-from PIL.ImagePalette import sepia
-from scipy.special import special
-
 
 def add(numbers: str) -> int:
     if numbers == "":
